@@ -972,9 +972,9 @@
 		["Bio"] = "Felizia is carefree and doesn't care for anything else besides her bike...and her younger sister Filleon. Felizia and Filleon share nothing in common but they do both like 1 thing, Going fast.",
 	},
 	
-	["Rubber Burner, Filleon"] = {
+	["Rubber Burner, Fylleon"] = {
 		["Id"] = Pending,
-		["Name"] = "Rubber Burner, Filleon",
+		["Name"] = "Rubber Burner, Fylleon",
 		["Health"] = 800,
 		["Power"] = 600,
 		["Charge"] = "True",
@@ -991,7 +991,7 @@
 			["Power"] = {{"Draw",1}},
 			Target = "Ally",
 		},
-		["Bio"] = "Filleon is much more serious and rides for a cause. Though she shares her need for speed with Felizia, she rides so she can challenge Drake again to a race to prove that she's better and that the last time was a set up.",
+		["Bio"] = "Fylleon is much more serious and rides for a cause. Though she shares her need for speed with Felizia, she rides so she can challenge Drake again to a race to prove that she's better and that the last time was a set up.",
 	},
 	
 	["Rubber Burner, Drake"] = {
@@ -1128,7 +1128,7 @@
 		["AttackEffect"] = "Fire",
 		["Archetype"] = "Guardians",
 		["Color"] = "White",
-		["Cost"] = {["Neutral"] = 3,},
+		["Cost"] = {["Neutral"] = 2,},
 		["Effect"] = {
 			Name = "Generate",
 			Description = "Gain 1 Green and Blue Icon. Cannot Generate Icons Naturally",
@@ -1149,7 +1149,7 @@
 		["AttackEffect"] = "Fire",
 		["Archetype"] = "Guardians",
 		["Color"] = "White",
-		["Cost"] = {["Neutral"] = 3,},
+		["Cost"] = {["Neutral"] = 2,},
 		["Effect"] = {
 			Name = "Generate",
 			Description = "Gain 1 Red and Yellow Icon. Cannot Generate Icons Naturally",
@@ -1170,7 +1170,7 @@
 		["AttackEffect"] = "Fire",
 		["Archetype"] = "Guardians",
 		["Color"] = "White",
-		["Cost"] = {["Neutral"] = 3,},
+		["Cost"] = {["Neutral"] = 2,},
 		["Effect"] = {
 			Name = "Generate",
 			Description = "Gain 1 Red and Blue Icon. Cannot Generate Icons Naturally",
@@ -1191,7 +1191,7 @@
 		["AttackEffect"] = "Fire",
 		["Archetype"] = "Guardians",
 		["Color"] = "White",
-		["Cost"] = {["Neutral"] = 3,},
+		["Cost"] = {["Neutral"] = 2,},
 		["Effect"] = {
 			Name = "Generate",
 			Description = "Gain 1 Blue and Yellow Icon. Cannot Generate Icons Naturally",
@@ -1212,7 +1212,7 @@
 		["AttackEffect"] = "Fire",
 		["Archetype"] = "Guardians",
 		["Color"] = "White",
-		["Cost"] = {["Neutral"] = 3,},
+		["Cost"] = {["Neutral"] = 2,},
 		["Effect"] = {
 			Name = "Generate",
 			Description = "Gain 1 Green and Yellow Icon. Cannot Generate Icons Naturally",
@@ -1233,7 +1233,7 @@
 		["AttackEffect"] = "Fire",
 		["Archetype"] = "Guardians",
 		["Color"] = "White",
-		["Cost"] = {["Neutral"] = 3,},
+		["Cost"] = {["Neutral"] = 2,},
 		["Effect"] = {
 			Name = "Generate",
 			Description = "Gain 1 Red and Green Icon. Cannot Generate Icons Naturally",
